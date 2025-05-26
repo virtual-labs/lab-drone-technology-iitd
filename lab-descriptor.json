@@ -4,138 +4,66 @@
     "link": "http://vlab.co.in/broad-area-computer-science-and-engineering",
     "code": "CSE"
   },
-  "lab": "Data Structures – 1",
-  "lab_display_name": "Data Structures – 1",
-  "phase": 3,
-  "collegeName": "IIITH",
-  "baseUrl": "ds1-iiith.vlabs.ac.in",
-  "introduction": "Welcome to the Data Structures Lab - I developed at IIIT Hyderabad. Data Structures (also called Data Structures and Algorithms in some places) is a core course in all computer science undergraduate curricula. The course is the basis for understanding several data structures and also algorithms that operate on them. The course forms the foundation for almost all computer science subjects: compilers, operating systems, databases, AI and software engineering. The course comes with a lab in most universities in India. The associated lab in university curricula focuses on implementation of algorithms operating on the data structures, i.e., coding programs on the data structures and algorithms. Students embarking on the task of writing programs, however, often have difficulty visualizing how operations and algorithms modify a data structure. As a result students are often unable to understand or show the execution of an algorithm on a given data structure and write code effectively. Furthermore, students are unable to visually reason about the time and space complexities associated with an algorithm running on a data structure. The interactive experiments in this lab will give the students an opportunity for learning and better understanding of using algorithms.",
-  "experiment-sections": [
-    {
-      "sect-name": "Sorting",
-      "experiments": [
-        {
-          "name": "Bubble Sort",
-          "short-name": "bubble-sort",
-          "repo": "https://github.com/virtual-labs/exp-bubble-sort-iiith.git",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Merge Sort",
-          "short-name": "merge-sort",
-          "repo": "https://github.com/virtual-labs/exp-merge-sort-iiith.git",
-          "tag": "v1.0.8",
-          "deploy": true
-        },
-        {
-          "name": "Heap Sort",
-          "short-name": "heap-sort",
-          "repo": "https://github.com/virtual-labs/exp-heap-sort-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Quick Sort",
-          "short-name": "quick-sort",
-          "repo": "https://github.com/virtual-labs/exp-quick-sort-iiith",
-          "tag": "v1.0.8",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Graphs",
-      "experiments": [
-        {
-          "name": "Depth First Search",
-          "short-name": "depth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-dfs-iiith",
-          "tag": "v1.0.9",
-          "deploy": true
-        },
-        {
-          "name": "Breadth First Search",
-          "short-name": "breadth-first-search",
-          "repo": "https://github.com/virtual-labs/exp-bfs-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Trees",
-      "experiments": [
-        {
-          "name": "Tree Traversal",
-          "short-name": "tree-traversal",
-          "repo": "https://github.com/virtual-labs/exp-tree-traversal-iiith/",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Binary Search Trees",
-          "short-name": "binary-search-trees",
-          "repo": "https://github.com/virtual-labs/exp-bst-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Searching",
-      "experiments": [
-        {
-          "name": "Unsorted Arrays",
-          "short-name": "unsorted-arrays",
-          "repo": "https://github.com/virtual-labs/exp-unsorted-arrays-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Hashtables",
-          "short-name": "hash-tables",
-          "repo": "https://github.com/virtual-labs/exp-hashtables-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        }
-      ]
-    },
-    {
-      "sect-name": "Linked Lists",
-      "experiments": [
-        {
-          "name": "Linked lists",
-          "short-name": "linked-list",
-          "repo": "https://github.com/virtual-labs/exp-linked-lists-iiith",
-          "tag": "v1.0.7",
-          "deploy": true
-        },
-        {
-          "name": "Polynomial Arithmetic using linked lists",
-          "short-name": "poly-arithmetic",
-          "repo": "https://github.com/virtual-labs/exp-polynomial-arithmetic-iiith",
-          "tag": "v1.0.6",
-          "deploy": true
-        }
-      ]
-    }
-  ],
+  "lab": "Drone Technology",
+  "lab_display_name": "Drone Technology",
+  "phase": "3-ext",
+  "collegeName": "IITD",
+  "baseUrl": "drone-iiith.vlabs.ac.in",
+  "introduction": "The Virtual Drone Engineering Lab is an interactive, web-based platform designed to provide learners with hands-on experience in drone technology, flight dynamics, and control systems through virtual simulations and guided experiments. Developed as part of the initiative to enhance technical education using digital tools, this lab allows students, enthusiasts, and professionals to explore drone engineering concepts without the need for physical hardware. Drones, also known as unmanned aerial vehicles (UAVs), have revolutionized sectors such as agriculture, surveillance, logistics, disaster management, and aerial photography. Understanding their design, functionality, and control mechanisms is essential for aspiring engineers and innovators. However, access to real drones for experimentation is often limited due to high costs and safety concerns. The Virtual Drone Engineering Lab bridges this gap by offering a simulated environment where learners can:<br><ul><li>Study the principles of flight and aerodynamics.</li> <li>Design and simulate drone models (quadcopters, fixed-wing, etc.).</li> <li>Understand and implement control algorithms such as PID controllers.</li> <li>Perform virtual experiments related to sensor integration, GPS navigation, obstacle avoidance, and autonomous flight.</li> <li>Analyze flight performance and optimize design parameters.</li> By combining theoretical knowledge with immersive simulations, this lab empowers learners to develop problem-solving</li></ul><br> skills, innovate in UAV design, and prepare for real-world applications in drone technology. It is especially beneficial for institutions looking to integrate drone education into their curriculum with minimal infrastructure.",
+ "experiments":[
+  {
+    "name": "Assembling of Electrical Components of Drone",
+    "short-name": "assembling-electrical-components",
+    "repo": "https://github.com/virtual-labs/exp-assembling-of-electrical-components-of-drone-iitd",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Assembling of Software Based Components of Drone",
+    "short-name": "assembling-software-based-components",
+    "repo": "https://github.com/virtual-labs/exp-assembling-of-software-based-components-of-drone-iitd",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Drone’s Software Download, Installation and Calibration",
+    "short-name": "software-download-installation-calibration",
+    "repo": "https://github.com/virtual-labs/exp-drones-software-download-installation-and-calibration-iitd",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Drone’s Take-off, Flight and Landing Basics",
+    "short-name": "drones-take-off-flight-landing-basics",
+    "repo": "https://github.com/virtual-labs/exp-drones-take-off-flight-and-landing-basics-iitd",
+    "tag": "v1.0.0",
+    "deploy": true
+  },
+  {
+    "name": "Operation of Agricultural Drone",
+    "short-name": "operation-agricultural-drone",
+    "repo": "https://github.com/virtual-labs/exp-operation-of-agricultural-drone-iitd",
+    "tag": "v1.0.0",
+    "deploy": true
+  }
+],
   "targetAudience": {
     "UG": [
-      " Data Structures & Algorithms for 1st & 2nd year B. Tech./ B.E in Computer Science & Information Technology <br/>- B.Sc / B.S in Computer Science "
+     "Under Graduate students of B.E./B.Tech."
     ],
     "PG": [
-      "Computer Science, Information Technology, Compilers, Operating systems, Databases, AI and Software engineering. <br/> - Ph. D. Beginners"
-    ]
+      "Research Scholars, faculty of various institutes and universities"]
   },
-  "objective": "The Virtual Lab for Data Structures will focus on creating an environment where the student interactively explores data structures. The role of this Virtual Labs is to complement the lectures and reading material and the programming lab in three ways : 1. Present visual animations of data structures 2. Allow students to interactively execute algorithms in these data structures. 3. Allow students to interactively compute the cost of using these data structures with different algorithms.",
+  "objective": "<ul><li> To recall the fundamentals of Drone engineering and workings</li><li>To understand the theory behind an experimental procedure</li><li>To apply the concepts learned to perform experiments</li><li>To analyze and present the output from the experiments</li></ul>",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Osmania University Data Structures Lab",
-      "JNTU Data Structures Lab"
+      "Anna University; 15ECP18; Introduction to Quadcopters",
+      "Savitribai Phule Pune University; AI4009; Internet Of Things",
+       "Bennett University, Greater Noida; ECSE378L; Drone Applications, Components and Assembly",
+       "Amrita Vidhwa Vidyapeetham; 21AIE103; Introduction to Drones"
     ]
 
  
+}
 }
