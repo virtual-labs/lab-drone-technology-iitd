@@ -15,35 +15,35 @@
     "name": "Assembling of Electrical Components of Drone",
     "short-name": "assembling-electrical-components",
     "repo": "https://github.com/virtual-labs/exp-assembling-of-electrical-components-of-drone-iitd",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Assembling of Software Based Components of Drone",
     "short-name": "assembling-software-based-components",
     "repo": "https://github.com/virtual-labs/exp-assembling-of-software-based-components-of-drone-iitd",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Drone’s Software Download, Installation and Calibration",
     "short-name": "software-download-installation-calibration",
     "repo": "https://github.com/virtual-labs/exp-drones-software-download-installation-and-calibration-iitd",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Drone’s Take-off, Flight and Landing Basics",
     "short-name": "drones-take-off-flight-landing-basics",
     "repo": "https://github.com/virtual-labs/exp-drones-take-off-flight-and-landing-basics-iitd",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   },
   {
     "name": "Operation of Agricultural Drone",
     "short-name": "operation-agricultural-drone",
     "repo": "https://github.com/virtual-labs/exp-operation-of-agricultural-drone-iitd",
-    "tag": "v1.0.1",
+    "tag": "v1.0.2",
     "deploy": true
   }
 ],
